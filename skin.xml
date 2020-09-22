@@ -1,0 +1,14 @@
+<skin>
+	<colors>
+		<mainbg>
+			(100, 100, 100)
+		</mainbg>
+	</colors>
+	<text>
+		<main>
+			<caption>
+				Welcome to vbXML
+			</caption>
+		</main>
+	</text>
+</skin>
